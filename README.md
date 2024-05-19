@@ -62,8 +62,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Have fun playing! 🎮
 
-## Additional Instructions
-
-1. Replace `Yesbol466` in the `git clone` command with your actual GitHub username if it changes.
-2. Add the screenshot of your application named `screenshot.png` to the root of your project directory before uploading the README to GitHub.
-3. If you have any additional dependencies, ensure they are listed in the `requirements.txt` file.
